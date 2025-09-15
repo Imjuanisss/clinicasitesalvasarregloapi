@@ -1,0 +1,15 @@
+{
+  "name": "clinicasitesalvasarregloapi",
+  "version": "1.0.0",
+  "main": "arreglo.js",
+  "scripts": {
+    "dev": "node --watch arreglo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

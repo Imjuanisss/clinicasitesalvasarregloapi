@@ -1,9 +1,9 @@
 {
   "name": "clinicasitesalvasarregloapi",
   "version": "1.0.0",
-  "main": "arreglo.js",
+  "main": "servidor.js",
   "scripts": {
-    "dev": "node --watch arreglo.js"
+    "dev": "node --watch servidor.js"
   },
   "keywords": [],
   "author": "",
